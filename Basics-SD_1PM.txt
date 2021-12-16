@@ -1,0 +1,26 @@
+C Programming Language
+
+- Dennis Ritchie, 1972
+
+Programming: set of instructions / statements
+
+Langauage: Medium of Communication
+
+Human		C, C++ etc			Computer
+English		Compiler			Binary, 2(0 or 1)
+		Translator
+
+High Level Language: English
+Low Level Langauage: Binary
+
+Compiler: 
+HLL to LLL
+LLL to HLL
+
+Binary: 2 , 0 or 1
+
+Computer ---> Electronic Device ---> Current Flow (1) ---> No Current Flow(0)
+
+
+1. Turbo C++
+2. Code::Blocks
